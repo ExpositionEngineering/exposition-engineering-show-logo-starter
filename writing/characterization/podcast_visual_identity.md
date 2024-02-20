@@ -112,3 +112,9 @@ by using the relative path to the file given as `../../image/podcast_logo.png`!
 
 TODO: Make sure to confirm with both one of your peer editors and the course
 instructor that it is possible to click the provided links and access your content.
+
+TODO: If you are not sure how to complete these steps, please ask the course
+instructor or one of the [student technical
+leaders](https://www.cis.allegheny.edu/teaching/technicalleaders/) for
+assistance. You are also encouraged to post a question in a public channel of
+our Discord server if you need further assistance.
