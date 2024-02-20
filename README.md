@@ -7,7 +7,7 @@
 
 <!---toc start-->
 
-* [🎤 Exposition Engineering: Show Outline One](#-exposition-engineering-show-outline-one)
+* [🎤 Exposition Engineering: Podcast Visual Identity](#-exposition-engineering-podcast-visual-identity)
   * [✨ Table of Contents](#-table-of-contents)
   * [🏁 Introduction](#-introduction)
   * [🤝 Seeking Assistance](#-seeking-assistance)
